@@ -19,4 +19,4 @@ To run this application, you need to have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubURL.git
+   git clone (https://github.com/Hima-Sai-Sankar3006/Alarm-Clock-py-pro-/edit/main/README.md).git
